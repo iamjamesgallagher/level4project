@@ -7,4 +7,11 @@ Push to remote repo : 		git push
 
 Create new branch : git branch <name>
 
-Move to that branch : git checkout <name>
+Move to branch : git checkout <name>
+
+Delete branch (cannt be on it) : git branch -d <name>
+
+
+look at log : 	Git Log
+
+
